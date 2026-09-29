@@ -81,3 +81,17 @@ market_basket_analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## Business Insights
+
+The association rules provide useful information about products that are frequently purchased together.
+
+- Customers who purchase yogurt and whole milk also show an association with curd. This rule has a lift of 3.37, indicating a strong positive association.
+- Customers who purchase other vegetables and citrus fruit show an association with root vegetables. The rule has a confidence of 35.92% and a lift of 3.30.
+- Other vegetables and yogurt are associated with whipped/sour cream, with a lift of 3.27.
+- Other vegetables and tropical fruit are associated with root vegetables, with a confidence of 34.28% and a lift of 3.14.
+- Beef is associated with root vegetables, with a confidence of 33.14% and a lift of 3.04.
+
+These insights can help businesses create product bundles, improve product placement, and provide cross-selling recommendations. For example, products with strong associations can be promoted together or recommended to customers during shopping.
+
+After adding it, save README.md.
